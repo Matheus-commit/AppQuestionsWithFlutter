@@ -1,5 +1,3 @@
-# projeto_perguntas
-
-## Flutter
+# Projeto Perguntas
 
 Projeto questões para treino de layout com flutter
